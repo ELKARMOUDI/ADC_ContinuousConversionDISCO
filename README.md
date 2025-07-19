@@ -2,6 +2,11 @@
 
 ![STM32F411](https://img.shields.io/badge/STM32F411-Discovery-blue)
 ![ADC](https://img.shields.io/badge/ADC1-Continuous_Conversion-green)
+![DBD9D6B7-A318-48B5-8A7A-C28830C08B7C](https://github.com/user-attachments/assets/1c5f149e-c97a-43a6-8326-1c8ed19d3a00)
+
+![B5A23937-EAF1-4FA0-B2F3-AAF176D0EEAD_4_5005_c](https://github.com/user-attachments/assets/2877509b-9267-4273-860d-7d6bcf11042c)
+
+
 
 Read potentiometer values using ADC1 in continuous conversion mode.
 
