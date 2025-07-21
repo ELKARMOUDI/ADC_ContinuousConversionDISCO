@@ -15,6 +15,7 @@ Read potentiometer values using ADC1 in continuous conversion mode.
 - **Continuous 12-bit ADC** readings
 - **PA0 Analog Input** for potentiometer
 - **High-Speed Sampling**: 480-cycle sample time
+- **96MHz System Clock** (HSI-based PLL)
 
 
 ## Hardware Setup
